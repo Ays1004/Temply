@@ -1,6 +1,6 @@
 {
     "name": "saas-starter-cli",
-    "version": "1.0.0",
+    "version": "0.2.1",
     "description": "A powerful CLI to bootstrap your SaaS application with pre-built templates",
     "type": "module",
     "main": "cli.js",
