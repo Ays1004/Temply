@@ -19,10 +19,10 @@ Whether you're launching a dashboard, auth flow, or landing page, Temply lets yo
 
 ```bash
 # Install globally via npm
-npm install -g saas-starter-cli
+npm install -g temply-cli
 
 # Or run directly with npx (recommended)
-npx create-saas-starter
+npx temply-cli
 ```
 
 ### Local Development
@@ -43,9 +43,9 @@ node cli.js
 
 1. **Run the CLI**:
    ```bash
-   npx create-saas-starter
+   npx temply-cli
    # or if installed globally
-   create-saas-starter
+   temply-cli
    ```
 
 2. **Follow the interactive prompts**:
